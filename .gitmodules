@@ -1,0 +1,13 @@
+[submodule "ibrahimshahzadblog/themes/themes/PaperMod"]
+	path = ibrahimshahzadblog/themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "ibrahimshahzadblog/themes/PaperMod"]
+	path = ibrahimshahzadblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "ibrahimshahzadblog/themes/paper"]
+	path = ibrahimshahzadblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "ibrahimshahzadblog/public"]
+	path = ibrahimshahzadblog/public
+	url = https://github.com/IbrahimShahzad/IbrahimShahzad.github.io.git
+	branch = main
