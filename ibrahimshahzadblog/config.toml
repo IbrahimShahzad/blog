@@ -1,7 +1,6 @@
 baseURL = 'https://ibrahimshahzad.github.io/'
 languageCode = 'en-us'
 title = 'Ibrahim Shahzad - Personal Blog'
-# theme = "contrast-hugo"
 theme = "poison"
 
 paginate = 10
@@ -39,7 +38,7 @@ pluralizelisttitles = false
     github_url = "https://github.com/IbrahimShahzad"
     # gitlab_url = "https://gitlab.com"
     # instagram_url = "https://instagram.com"
-    linkedin_url = "https://linkedin.com/in/ibrahim-shahzad-71305773/"
+    linkedin_url = "https://www.linkedin.com/in/mib93/"
     # mastodon_url = "https://mastodon.social"
     # matrix_url = "https://matrix.org"
     # telegram_url = "https://telegram.org"
